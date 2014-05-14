@@ -7,5 +7,10 @@ https://github.com/nodeapps/http-server
 
 => http-server /Users/pierre/Downloads -p 9090
 
+httpserver:
+
+node index.js
+
+
 
 
